@@ -9,4 +9,4 @@ screenshot:
 ![app screenshot](/Assets/image/Password%20Generator.png)
 
 Deployed link: 
-https://tsedi28.github.io/homework2/
+https://tsedi28.github.io/passwordgenerator2/
